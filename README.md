@@ -375,6 +375,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
 * [servelove](https://github.com/YellowButShort/servelove/) - A web server library that runs on love.
+* [loveAsyncAwait](https://github.com/Sladkokotikov/loveAsyncAwait) - async / await syntax with LÖVE2D and Lua with no dependencies, in just 32 lines of code.
 
 ## Tutorials
 *Blogs and tutorials*
